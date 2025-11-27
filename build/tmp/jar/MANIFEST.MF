@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: hud_by_Chibra
+Specification-Vendor: anthonyhilyard
+Specification-Version: 1.0.0
+Implementation-Title: hud_by_Chibra
+Implementation-Version: 1.0.0
+Implementation-Vendor: anthonyhilyard
+Implementation-Timestamp: 2025-11-27T06:11:43+0300
+
